@@ -1,0 +1,14 @@
+.single-player{
+    background-color: rgb(192, 197, 192);
+    display: flex;
+    padding: auto;
+    border:2px solid lime;
+    margin:20px
+
+
+}
+.player-image{
+    border:2px rgb(39, 119, 223);
+    margin-right: 20px;
+    margin:20px
+}
